@@ -18,6 +18,7 @@ namespace Calculator
             int c;
             int e;
             int xyi;
+            int xyi1;
         }
     }
 }
