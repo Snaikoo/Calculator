@@ -15,6 +15,9 @@ namespace Calculator
             InitializeComponent();
             int a;
             int b;
+            int c;
+            int e;
+            int xyi;
         }
     }
 }
