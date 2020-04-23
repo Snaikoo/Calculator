@@ -13,6 +13,8 @@ namespace Calculator
         public Form1()
         {
             InitializeComponent();
+            int a;
+            int b;
         }
     }
 }
